@@ -18,5 +18,5 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'jekyll-webp'
-    gem 'github-pages', group: :jekyll_plugins
+    # gem 'github-pages', group: :jekyll_plugins
 end
