@@ -2,7 +2,7 @@
 layout: post
 date: 2024-06-01
 inline: true
-expect: true
+expect: false
 ---
 
 Master of Science in Complex Adaptive Systems <br>

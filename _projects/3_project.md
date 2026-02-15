@@ -4,7 +4,7 @@ title: Langevin dynamics
 description: what happens when Langevin dynamics meets Markov chain meets simulated annealing? :o
 img: assets/img/project_3_profile.png
 # redirect: https://unsplash.com
-importance: 4
+importance: 6
 category: work
 ---
 
