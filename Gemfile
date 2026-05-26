@@ -18,5 +18,6 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'jekyll-webp'
+    gem "jekyll-sass-converter", "2.2.0"
     # gem 'github-pages', group: :jekyll_plugins
 end
