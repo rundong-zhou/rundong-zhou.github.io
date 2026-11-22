@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <b> ...a little about me</b> <br>
-I am currenlty a Ph.D. student at the [Physics of Fluids](https://pof.tnw.utwente.nl/) group in the University of Twente, Netherlands. I recieved my master degree in [complex adaptive systems](https://www.chalmers.se/en/education/programmes/masters-info/Pages/Complex-Adaptive-Systems.aspx) from Chalmers University of Technology in Sweden, and bachelor degree in
+I am currenlty a Ph.D. student at the [Physics of Fluids](https://pof.tnw.utwente.nl/) Department in the University of Twente, Netherlands. I recieved my master degree in [complex adaptive systems](https://www.chalmers.se/en/education/programmes/masters-info/Pages/Complex-Adaptive-Systems.aspx) from Chalmers University of Technology in Sweden, and bachelor degree in
 [](https://engsci.utoronto.ca/program/what-is-engsci/)[Engineering Science](https://youtu.be/BcPO4yhWSUg), major in Engineering Physics from the University of Toronto in Canada. 
 
 I am primarily interested in fluid mechanics and turbulent convection, geophysical fluid dynamics, computational physics, numerical methods, and their applications in oceanography and atmospheric science. Here is my [CV](/assets/pdf/RundongZhou_CV.pdf).
